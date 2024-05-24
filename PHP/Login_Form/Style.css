@@ -1,0 +1,99 @@
+#body {
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   background-image: url("bg10.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+
+}
+#form {
+   margin: 0 0 0 10px;
+   padding: 0 0 0 0;
+   width: 350px;
+   height: 400px;
+   position: absolute;
+   top: 50%;
+   left: 17%;
+   transform: translate(-50%,-50%);
+   background-color: transparent;
+   text-align: center;
+}
+#h1 {
+   margin: 0 0 25px 0px;
+   padding: 0 0 0 0;
+   width: auto;
+   height: auto;
+   font-family: cursive;
+   font-size: 40px;
+   border-left: 3px solid #03a000;
+   border-right: 3px solid #03a000;
+   color: #03a000;
+}
+#email {
+   margin: 0 0 25px 0;
+   padding: 3px;
+   width: 250px;
+   height: 20px;
+   border: none;
+   outline: none;
+   background-color: #07d204;
+   border-radius: 10px;
+   font-size: 15px;
+   text-align: center;
+}
+#pass {
+   margin: 0px 0 25px 0;
+   padding: 3px;
+   width: 135px;
+   height: 15px;
+   border: none;
+   outline: none;
+   background-color: #07d204;
+   color: black;
+   border-radius: 10px;
+   font-size: 15px;
+   text-align: center;
+}
+#age {
+   margin: 0px 0 25px 0;
+   padding: 3px;
+   width: 90px;
+   height: 17px;
+   border: none;
+   outline: none;
+   background-color: #07d204;
+   color: black;
+   border-radius: 10px;
+   font-size: 15px;
+   text-align: center;
+}
+#city {
+   margin: 0px 0 25px 0;
+   padding: 3px;
+   width: 110px;
+   height: 17px;
+   border: none;
+   outline: none;
+   background-color: #07d204;
+   color: black;
+   border-radius: 10px;
+   font-size: 15px;
+   text-align: center;
+}
+#btn {
+   margin: 0px 0 0 0;
+   padding: 0px;
+   width: 70px;
+   height: 25px;
+   position: absolute;
+   top: 225px;
+   left: 140px;
+   border: none;
+   outline: none;
+   background-color: #07d204;
+   color: black;
+   border-radius: 10px;
+   font-size: 15px;
+   font-family: cursive;
+   text-align: center;
+}

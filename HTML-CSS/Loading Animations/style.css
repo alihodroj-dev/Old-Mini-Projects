@@ -1,0 +1,353 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: auto;
+    height: auto;
+    background-color: dimgray;
+    background-size: cover;
+    min-width: 1000px;
+}
+
+#anim1{
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-350%,-50%);
+    background-color: darkorange;
+    border-radius: 50px;
+}
+
+#sq1{
+    margin: 0;
+    padding: 0;
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    position: absolute;
+    top: 90px;
+    left: 70px;
+    transform: rotate(45deg);
+    animation: sq_anim1 2s infinite;
+    animation-timing-function: ease-in-out;
+}
+@keyframes sq_anim1 {
+    0%{
+        top: 90px;
+        left: 70px;
+    }
+    25%{
+        top: 110px;
+        left: 90px;
+    }
+    50%{
+        top: 90px;
+        left: 110px;
+    }
+    75%{
+        top: 70px;
+        left: 90px;
+    }
+    100%{
+        top: 90px;
+        left: 70px;
+    }
+}
+
+#sq2{
+    margin: 0;
+    padding: 0;
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    position: absolute;
+    top: 90px;
+    left: 110px;
+    transform: rotate(45deg);
+    animation: sq_anim2 2s infinite;
+    animation-timing-function: ease-in-out;
+}
+@keyframes sq_anim2 {
+    0%{
+        top: 90px;
+        left: 110px;
+    }
+    25%{
+        top: 70px;
+        left: 90px;
+    }
+    50%{
+        top: 90px;
+        left: 70px;
+    }
+    75%{
+        top: 110px;
+        left: 90px;
+    }
+    100%{
+        top: 90px;
+        left: 110px;
+    }
+}
+
+#sq3{
+    margin: 0;
+    padding: 0;
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    position: absolute;
+    top: 70px;
+    left: 90px;
+    transform: rotate(45deg);
+    animation: sq_anim3 2s infinite;
+    animation-timing-function: ease-in-out;
+}
+@keyframes sq_anim3 {
+    0%{
+        top: 70px;
+        left: 90px;
+    }
+    25%{
+        top: 90px;
+        left: 70px;
+    }
+    50%{
+        top: 110px;
+        left: 90px;
+    }
+    75%{
+        top: 90px;
+        left: 110px;
+    }
+    100%{
+        top: 70px;
+        left: 90px;
+    }
+}
+
+#sq4{
+    margin: 0;
+    padding: 0;
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    position: absolute;
+    top: 110px;
+    left: 90px;
+    transform: rotate(45deg);
+    animation: sq_anim4 2s infinite;
+    animation-timing-function: ease-in-out;
+}
+@keyframes sq_anim4 {
+    0%{
+        top: 110px;
+        left: 90px;
+    }
+    25%{
+        top: 90px;
+        left: 110px;
+    }
+    50%{
+        top: 70px;
+        left: 90px;
+    }
+    75%{
+        top: 90px;
+        left: 70px;
+    }
+    100%{
+        top: 110px;
+        left: 90px;
+    }
+}
+
+#anim2{
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: limegreen;
+    border-radius: 50px;
+}
+
+#cr1{
+    margin: 0;
+    padding: 0;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 90px;
+    left: 90px;
+    background-color: black;
+    border-radius: 20px;
+    animation: cr_anim1 1s infinite;
+    animation-timing-function: linear;
+    animation-delay: 0.4s;
+}
+@keyframes cr_anim1 {
+    0%{
+        width: 20px;
+        height: 20px;
+    }
+    50%{
+        width: 0;
+        height: 0;
+    }
+    100%{
+        width: 20px;
+        height: 20px;
+    }
+}
+
+#cr2{
+    margin: 0;
+    padding: 0;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 90px;
+    left: 60px;
+    background-color: black;
+    border-radius: 20px;
+    animation: cr_anim2 1s infinite;
+    animation-timing-function: linear;
+    animation-delay: 0.8s;
+}
+@keyframes cr_anim2 {
+    0%{
+        width: 20px;
+        height: 20px;
+    }
+    50%{
+        width: 0;
+        height: 0;
+    }
+    100%{
+        width: 20px;
+        height: 20px;
+    }
+}
+
+#cr3{
+    margin: 0;
+    padding: 0;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 90px;
+    left: 120px;
+    background-color: black;
+    border-radius: 20px;
+    animation: cr_anim3 1s infinite;
+    animation-timing-function: linear;
+    animation-delay: 1.2s;
+}
+@keyframes cr_anim3 {
+    0%{
+        width: 20px;
+        height: 20px;
+    }
+    50%{
+        width: 0;
+        height: 0;
+    }
+    100%{
+        width: 20px;
+        height: 20px;
+    }
+}
+
+#anim3{
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(250%,-50%);
+    background-color: dodgerblue;
+    border-radius: 50px;
+}
+
+#rc1{
+    margin: 0;
+    padding: 0;
+    width: 6px;
+    height: 40px;
+    position: absolute;
+    top: 80px;
+    left: 84px;
+    background-color: black;
+    animation: rc_anim1 2s infinite;
+    animation-timing-function: ease-in-out;
+}
+@keyframes rc_anim1 {
+    0%{
+        height: 40px;
+    }
+    50%{
+        height: 0;
+    }
+    100%{
+        height: 40px;
+    }
+}
+
+#rc2{
+    margin: 0;
+    padding: 0;
+    width: 6px;
+    height: 40px;
+    position: absolute;
+    top: 80px;
+    left: 98px;
+    background-color: black;
+    animation: rc_anim2 2s infinite;
+    animation-timing-function: ease-in-out;
+    animation-delay: 0.3s;
+}
+@keyframes rc_anim2 {
+    0%{
+        height: 40px;
+    }
+    50%{
+        height: 0;
+    }
+    100%{
+        height: 40px;
+    }
+}
+
+#rc3{
+    margin: 0;
+    padding: 0;
+    width: 6px;
+    height: 40px;
+    position: absolute;
+    top: 80px;
+    left: 112px;
+    background-color: black;
+    animation: rc_anim3 2s infinite;
+    animation-timing-function: ease-in-out;
+    animation-delay: 0.6s;
+}
+@keyframes rc_anim3 {
+    0%{
+        height: 40px;
+    }
+    50%{
+        height: 0;
+    }
+    100%{
+        height: 40px;
+    }
+}

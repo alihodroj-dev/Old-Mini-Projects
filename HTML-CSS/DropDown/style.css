@@ -1,0 +1,60 @@
+#body{
+    margin: 0;
+    padding: 0;
+    width: auto;
+    height: auto;
+    background-image: url(bg11.png);
+    background-size: cover;
+}
+
+#div{
+    margin: 0;
+    padding: 0;
+    width: 120px;
+    height: 130px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: transparent;
+}
+
+#lessons{
+    margin: 0;
+    padding: 0;
+    width: 120px;
+    height: 40xp;
+    background-color: #010101;
+    color: #13a205;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+    border-color: #13a205;
+}
+
+#btn{
+    margin: 0;
+    padding: 0;
+    width: 120px;
+    height: 40xp;
+    background-color: #010101;
+    color: #13a205;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+    border-color: #13a205;
+    transition-duration: 0.5s;
+}
+#btn:hover{
+    margin: 0;
+    padding: 0;
+    width: 120px;
+    height: 40xp;
+    background-color: #13a205;
+    color: #010101;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+    border-color: #010101;
+    transition-duration: 0.5s;
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>test</title>
+            <meta charset="utf-8">
+        <link href="style.css" rel="stylesheet">
+    </head>
+    <body id="body">
+        <button id="btn1" onclick="bg_green1()">Green</button>
+            <button id="btn2" onclick="bg_green2()">Blue</button>
+                <button id="btn3" onclick="bg_green3()">Yellow</button>
+                    <button id="btn4" onclick="bg_green4()">Red</button>
+                        <button id="btn5" onclick="bg_green5()">Default</button>
+                            <div id="heading">
+                        <h1 id="title">Welcome</h1>
+                    <p id="sub_title">Pick a Color</p>
+                </div>
+            <script src="jQueryL.js"></script>
+        <script>
+            function bg_green1() {
+                $(function() {
+                    $("#body").css("backgroundColor","Green");
+                });}function bg_green2() {
+                        $(function() {
+                            $("#body").css("backgroundColor","Blue");
+                });}function bg_green3() {
+                        $(function() {
+                            $("#body").css("backgroundColor","Yellow");
+                });}function bg_green4() {
+                        $(function() {
+                            $("#body").css("backgroundColor","Red");
+                });}function bg_green5() {
+                        $(function() {
+                            $("#body").css("backgroundColor","White");
+                });}
+        </script>
+    </body>
+</html>

@@ -1,0 +1,26 @@
+{
+  "user0": {
+    "email": "email1",
+    "password": "pass1",
+    "role": "ADMIN",
+    "username": "username1"
+  },
+  "user1": {
+    "email": "email2",
+    "password": "pass2",
+    "role": "USER",
+    "username": "username2"
+  },
+  "user2": {
+    "email": "email3",
+    "password": "pass3",
+    "role": "USER",
+    "username": "username3"
+  },
+  "user3": {
+    "email": "email4",
+    "password": "pass4",
+    "role": "ADMIN",
+    "username": "username4"
+  }
+}

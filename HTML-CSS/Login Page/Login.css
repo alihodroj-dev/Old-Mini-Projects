@@ -1,0 +1,72 @@
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+
+.body{
+    margin: 0px;
+    padding: 0px;
+    width: auto;
+    height: auto;
+    font-family: sans-serif;
+    background-color:red;
+    background-image: url(bg.jpg);
+}
+
+.div{
+    width: 250px;
+    height: auto;
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    top: 35%;
+    left: 52.5%;
+    transform: translate(-50%,-50%);
+}
+
+.heading{
+    color: #1789df;
+    margin: 0px;
+    padding: 0px;
+    border-bottom: 5px solid #1474be;
+    width: 90px;
+}
+
+.username{
+    width: auto;
+    height: auto;
+    float: left;
+    margin-top: 25px;
+    background: none;
+    border: none;
+    color: #1789df;
+    cursor:text;
+    border-bottom: 1px solid #1474be;
+    padding-bottom: 5px;
+    backface-visibility: visible;
+}
+
+.password{
+    width: auto;
+    height: auto;
+    float: left;
+    margin-top: 25px;
+    background: none;
+    border: none;
+    color: #1789df;
+    cursor:text;
+    border-bottom: 1px solid #1474be;
+    padding-bottom: 5px;
+    backface-visibility: visible;
+}
+
+.btn{
+    width: 100px;
+    height: 25px;
+    float: left;
+    color: #1789df;
+    background: none;
+    border-color: #1789df;
+    text-align: center;
+    margin-left: 34.5px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+

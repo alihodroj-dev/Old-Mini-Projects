@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7dcc7eb-b59a-4b28-bf21-af37ec48c739" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Password_Generator(R)/Script.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Regression(ML)/Script.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="XHTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Login_System(R)/Script.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Regression(ML)/Script.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Arranging_Algorithm(R)/Script.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Restaurant_Problem(DS)/Script.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Student_Exam(ML)/Script.py" />
+        <option value="$PROJECT_DIR$/Neural_Network/Script.py" />
+        <option value="$PROJECT_DIR$/Flower_Classifier(ML)/Script.py" />
+        <option value="$PROJECT_DIR$/test/script.py" />
+        <option value="$PROJECT_DIR$/test/Script.py" />
+        <option value="$PROJECT_DIR$/Login_System/test" />
+        <option value="$PROJECT_DIR$/Login_System/Script.py" />
+        <option value="$PROJECT_DIR$/Login_System/Accounts" />
+        <option value="$PROJECT_DIR$/Login_System/RM" />
+        <option value="$PROJECT_DIR$/Login_System(R-ML)/test.py" />
+        <option value="$PROJECT_DIR$/Login_System(R-ML)/#5.txt" />
+        <option value="$PROJECT_DIR$/Login_System(R-ML)/#4.txt" />
+        <option value="$PROJECT_DIR$/Login_System(R-ML)/#3.txt" />
+        <option value="$PROJECT_DIR$/Login_System(R-ML)/RM" />
+        <option value="$PROJECT_DIR$/Login_System(R-ML)/#1.txt" />
+        <option value="$PROJECT_DIR$/Login_System(R-ML)/#2.txt" />
+        <option value="$PROJECT_DIR$/Login_System(R-ML)/Accounts" />
+        <option value="$PROJECT_DIR$/Login_System(R-ML)/Script.py" />
+        <option value="$PROJECT_DIR$/GUI_Project/Script.py" />
+        <option value="$PROJECT_DIR$/GUI_Project(R)/test.txt" />
+        <option value="$PROJECT_DIR$/GUI_Project(R)/Script.py" />
+        <option value="$PROJECT_DIR$/Market Bot/Script.py" />
+        <option value="$PROJECT_DIR$/TowDo(R-ML)/Newfolder/Script.py" />
+        <option value="$PROJECT_DIR$/TowDo(R-ML)/test.py" />
+        <option value="$PROJECT_DIR$/TowDo(R-ML)/SongNames" />
+        <option value="$PROJECT_DIR$/TowDo(R-ML)/Script.py" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/test.xhtml" />
+        <option value="$PROJECT_DIR$/Data Science Project/Script.py" />
+        <option value="$PROJECT_DIR$/Mistery of UC-Berkley/Script.py" />
+        <option value="$PROJECT_DIR$/Mistery of UC-Berkley/data.csv" />
+        <option value="$PROJECT_DIR$/Restaurant_Problem(DS)/Data_Week3.csv" />
+        <option value="$PROJECT_DIR$/Restaurant_Problem(DS)/Data_Week4.csv" />
+        <option value="$PROJECT_DIR$/Restaurant_Problem(DS)/Data_Week1.csv" />
+        <option value="$PROJECT_DIR$/Restaurant_Problem(DS)/Data_Week2.csv" />
+        <option value="$PROJECT_DIR$/Restaurant_Problem(DS)/Script.py" />
+        <option value="$PROJECT_DIR$/test/test.xml" />
+        <option value="$PROJECT_DIR$/Arranging_Algorithm(R)/Script.py" />
+        <option value="$PROJECT_DIR$/Password_Generator(R)/Script.py" />
+        <option value="$PROJECT_DIR$/Learning_Patterns(ML)/Script.py" />
+        <option value="$PROJECT_DIR$/Math_Learner(ML)/Script.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="y" value="40" />
+    <option name="width" value="814" />
+    <option name="height" value="867" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="XHTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Login_System(R)/Script.py" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alosh\Desktop\Coding\Projects\Python\TowDo(R-ML)\UI_Pictures" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Script" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Regression(ML)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regression(ML)/Script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Script" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7dcc7eb-b59a-4b28-bf21-af37ec48c739" name="Default Changelist" comment="" />
+      <created>1550173359022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550173359022</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="32" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1641318" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25302827" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32974428" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32974428" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Login_System(R-ML)/Personal_files/#2" />
+    <entry file="file://$PROJECT_DIR$/Login_System(R-ML)/Personal_files/#4" />
+    <entry file="file://$PROJECT_DIR$/Login_System(R-ML)/Personal_files/#3" />
+    <entry file="file://$PROJECT_DIR$/Login_System(R-ML)/test.py" />
+    <entry file="file://$PROJECT_DIR$/Login_System(R-ML)/#5.txt" />
+    <entry file="file://$PROJECT_DIR$/Login_System(R-ML)/RM" />
+    <entry file="file://$PROJECT_DIR$/Login_System(R-ML)/01.txt" />
+    <entry file="file://$PROJECT_DIR$/Login_System(R-ML)/#4.txt" />
+    <entry file="file://$PROJECT_DIR$/Login_System(R-ML)/#3.txt" />
+    <entry file="file://$PROJECT_DIR$/Login_System(R-ML)/#1.txt" />
+    <entry file="file://$PROJECT_DIR$/Login_System(R-ML)/#2.txt" />
+    <entry file="file://$PROJECT_DIR$/Sign_Up_GUI(R)/Script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sign_Up_GUI(R)/Accs.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Market Bot/Script.py" />
+    <entry file="file://$PROJECT_DIR$/TowDo(R)/Song_Pictures/music-player.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TowDo(R)/UI_Pictures/Default_song_pic.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TowDo(R-ML)/Newfolder/Script.spec" />
+    <entry file="file://$PROJECT_DIR$/TowDo(R-ML)/Newfolder/build/Script/xref-Script.html" />
+    <entry file="file://$PROJECT_DIR$/TowDo(R-ML)/Newfolder/dist/Script.exe" />
+    <entry file="file://$PROJECT_DIR$/TowDo(R-ML)/Newfolder/Script.py" />
+    <entry file="file://$PROJECT_DIR$/TowDo(R)/UI_Pictures/mp3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TowDo(R)/UI_Pictures/song1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="3500" selection-start-line="3500" selection-end-line="3500" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TowDo(R)/UI_Pictures/song3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TowDo(R)/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TowDo(R)/SongNames">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TowDo(R)/Script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding>
+            <element signature="e#10#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html" />
+    <entry file="file://$PROJECT_DIR$/test.xhtml" />
+    <entry file="file://$PROJECT_DIR$/Mistery of UC-Berkley/data.csv" />
+    <entry file="file://$PROJECT_DIR$/Mistery of UC-Berkley/Script.py" />
+    <entry file="file://$PROJECT_DIR$/Restaurant_Problem(DS)/Data_Week2" />
+    <entry file="file://$PROJECT_DIR$/Restaurant_Problem(DS)/Data_Week3" />
+    <entry file="file://$PROJECT_DIR$/Restaurant_Problem(DS)/Data_Work4" />
+    <entry file="file://$PROJECT_DIR$/Restaurant_Problem(DS)/Data_Week1" />
+    <entry file="file://$PROJECT_DIR$/Restaurant_Problem(DS)/Data_Week1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Restaurant_Problem(DS)/Data_Week2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Restaurant_Problem(DS)/Data_Week3.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Restaurant_Problem(DS)/Data_Week4.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test" />
+    <entry file="file://$PROJECT_DIR$/test/test.xml" />
+    <entry file="file://$PROJECT_DIR$/Multiplying_Vectors(R)/Script.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arranging_Algorithm(R)/Script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Login_System(R)/Script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="10" column="81" lean-forward="true" selection-start-line="10" selection-start-column="81" selection-end-line="10" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Login_System(R)/Accounts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Restaurant_Problem(DS)/Script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-87">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_Patterns(ML)/Script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Math_Learner(ML)/Script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Password_Encrypt_Decrypt(R)/Script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Password_Generator(R)/Script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Regression(ML)/Script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

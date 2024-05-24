@@ -1,0 +1,4 @@
+Primary = #1F2D3D
+PriamryDark = #1B2633
+AccentGreen = #13CE66
+AccentWhite = #FFFFFF

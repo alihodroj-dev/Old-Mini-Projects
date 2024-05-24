@@ -1,0 +1,219 @@
+body{
+    width: auto;
+    height: auto;
+    background-color: dodgerblue;
+    background-size: cover;
+    
+}
+
+#heading{
+    padding: 0;
+    margin: 0;
+    width: auto;
+    height: auto;
+    color: #dbdbdb;
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+#img1{
+    margin: ;
+    padding: ;
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 10%;
+    left: 24%;
+    filter: grayscale(100%);
+    transition-duration: 0.5s;
+}
+
+#img1:hover{
+    margin: ;
+    padding: ;
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 10%;
+    left: 24%;
+    filter: grayscale(0%);
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+#img2{
+    margin: ;
+    padding: ;
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 10%;
+    left: 37.5%;
+    filter: grayscale(100%);
+    transition-duration: 0.5s;
+}
+
+#img2:hover{
+    margin: ;
+    padding: ;
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 10%;
+    left: 37.5%;
+    filter: grayscale(0%);
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+#img3{
+    margin: ;
+    padding: ;
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 10%;
+    left: 51%;
+    filter: grayscale(100%);
+    transition-duration: 0.5s;
+}
+
+#img3:hover{
+    margin: ;
+    padding: ;
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 10%;
+    left: 51%;
+    filter: grayscale(0%);
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+#img4{
+    margin: ;
+    padding: ;
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 10%;
+    left: 64.5%;
+    filter: grayscale(100%);
+    transition-duration: 0.5s;
+}
+
+#img4:hover{
+    margin: ;
+    padding: ;
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 10%;
+    left: 64.5%;
+    filter: grayscale(0%);
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+#img5{
+    margin: ;
+    padding: ;
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 30.75%;
+    left: 24%;
+    filter: grayscale(100%);
+    transition-duration: 0.5s;
+}
+
+#img5:hover{
+    margin: ;
+    padding: ;
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 30.75%;
+    left: 24%;
+    filter: grayscale(0%);
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+#img6{
+    margin: ;
+    padding: ;
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 30.75%;
+    left: 37.5%;
+    filter: grayscale(100%);
+    transition-duration: 0.5s;
+}
+
+#img6:hover{
+    margin: ;
+    padding: ;
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 30.75%;
+    left: 37.5%;
+    filter: grayscale(0%);
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+#img7{
+    margin: px;
+    padding: px;
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 30.75%;
+    left: 51%;
+    filter: grayscale(100%);
+    transition-duration: 0.5s;
+}
+
+#img7:hover{
+    margin: px;
+    padding: px;
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 30.75%;
+    left: 51%;
+    filter: grayscale(0%);
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+#img8{
+    margin: px;
+    padding: px;
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 30.75%;
+    left: 64.5%;
+    filter: grayscale(100%);
+    transition-duration: 0.5s;
+}
+
+#img8:hover{
+    margin: px;
+    padding: px;
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 30.75%;
+    left: 64.5%;
+    filter: grayscale(0%);
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+

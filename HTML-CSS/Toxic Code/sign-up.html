@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html id="all">
+    <head>
+        <title>Toxic Code</title>
+            <meta charset="utf-8">    
+        <style>
+#body{
+    margin: 0;
+    padding: 0;
+    width: auto;
+    height: auto;
+    min-width: 1100px;
+    max-width: 1800px;
+    background-image: url(bg13.png);
+    background-size: cover;
+}
+
+#top-nav{
+    margin: 0;
+    padding: 0;
+    width: ;
+    height: 52px;
+    background-color: black;
+}
+
+#toxic-logo{
+    margin: 0;
+    padding: 0;
+    width: 80px;
+    height: 50px;
+    position: absolute;
+    top: 0%;
+    left: 85px;
+    cursor: pointer;
+}
+
+#toxic{
+    margin: 0;
+    padding: 0;
+    width: auto;
+    height: auto;
+    color: #56ce17;
+    font-family: monospace;
+    font-size: 32px;
+    position: absolute;
+    top: 7.5px;
+    left: 153px;
+    cursor: pointer;
+}
+
+#Code{
+    margin: 0;
+    padding: 0;
+    width: auto;
+    height: auto;
+    color: #9a9a9a;
+    font-size: 28px;
+    font-family: monospace;
+    position: absolute;
+    top: 10.5px;
+    left: 244px;
+    cursor: pointer;
+}
+
+#Gallery{
+    margin: 0;
+    padding: 0;
+    width: 0px;
+    height: auto;
+    color: #56ce17;
+    font-family: monospace;
+    font-size: 22px;
+    position: absolute;
+    top: 13px;
+    left: 59.5%;
+    border-bottom: solid 3px #56ce17;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+#Gallery:hover{
+    margin: 0;
+    padding: 0;
+    width: 84.67px;
+    height: auto;
+    color: #56ce17;
+    font-family: monospace;
+    font-size: 22px;
+    position: absolute;
+    top: 13px;
+    left: 60%;
+    border-bottom: solid 3px #56ce17;
+    transition-duration: 0.5s;
+    background-color: #282b28;
+    cursor: pointer;
+}
+
+#Profile{
+    margin: 0;
+    padding: 0;
+    width: 0px;
+    height: auto;
+    color: #56ce17;
+    font-family: monospace;
+    font-size: 22px;
+    position: absolute;
+    top: 13px;
+    left: 67.65%;
+    border-bottom: solid 3px #56ce17;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+#Profile:hover{
+    margin: 0;
+    padding: 0;
+    width: 84.67px;
+    height: auto;
+    color: #56ce17;
+    font-family: monospace;
+    font-size: 22px;
+    position: absolute;
+    top: 13px;
+    left: 68.15%;
+    border-bottom: solid 3px #56ce17;
+    transition-duration: 0.5s;
+    background-color: #282b28;
+    cursor: pointer;
+}
+
+#About{
+    margin: 0;
+    padding: 0;
+    width: 0px;
+    height: auto;
+    color: #56ce17;
+    font-family: monospace;
+    font-size: 22px;
+    position: absolute;
+    top: 13px;
+    left: 75.8%;
+    border-bottom: solid 3px #56ce17;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+#About:hover{
+    margin: 0;
+    padding: 0;
+    width: 60.48px;
+    height: auto;
+    color: #56ce17;
+    font-family: monospace;
+    font-size: 22px;
+    position: absolute;
+    top: 13px;
+    left: 76.3%;
+    border-bottom: solid 3px #56ce17;
+    transition-duration: 0.5s;
+    background-color: #282b28;
+    cursor: pointer;
+}
+
+#Contact_Us{
+    margin: 0;
+    padding: 0;
+    width: 0px;
+    height: auto;
+    color: #56ce17;
+    font-family: monospace;
+    font-size: 22px;
+    position: absolute;
+    top: 13px;
+    left: 81.75%;
+    border-bottom: solid 3px #56ce17;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+#Contact_Us:hover{
+    margin: 0;
+    padding: 0;
+    width: 108.88px;
+    height: auto;
+    color: #56ce17;
+    font-family: monospace;
+    font-size: 22px;
+    position: absolute;
+    top: 13px;
+    left: 82.25%;
+    border-bottom: solid 3px #56ce17;
+    transition-duration: 0.5s;
+    background-color: #282b28;
+    cursor: pointer;
+}
+
+#part1{
+    margin: 0;
+    padding: 0;
+    width: 600px;
+    height: 550px;
+    position: absolute;
+    top: 400px;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: black;
+}
+
+#title{
+    margin-left: 100px;
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-right: 0;
+    padding: 0;
+    width: auto;
+    height: auto;
+    text-align: center;
+    color: #56ce17;
+    font-family: monospace;
+    font-size: 50px;
+}
+
+#first_name{
+    margin-left: 170px;
+    margin-bottom: 5px;
+    margin-top: 40px;
+    margin-right: 0;
+    padding: 0;
+    width: 150px;
+    height: 29px;
+    color: #56ce17;
+    font-family: monospace;
+    font-size: 25px;
+    border-left: 4px solid #56ce17;
+}
+
+#first_name_inp{
+    margin-left: 180px;
+    margin-bottom: 0px;
+    margin-top: 0;
+    margin-right: 0;
+    padding: 0;
+    width: 140px;
+    height: 22px;
+    position: absolute;
+    top: 135px;
+    background-color: #56ce17;
+    color: black;
+    border-color: #44a213;
+    font-family: cursive;
+    font-size: 15px;
+}
+
+#last_name{
+    margin-left: 380px;
+    margin-bottom: 5px;
+    margin-top: 0;
+    margin-right: 0;
+    padding: 0;
+    width: 150px;
+    height: 29px;
+    position: absolute;
+    top: 98.75px;
+    color: #56ce17;
+    font-family: monospace;
+    font-size: 25px;
+    border-left: 4px solid #56ce17;
+}
+
+#last_name_inp{
+    margin-left: 390px;
+    margin-bottom: 0px;
+    margin-top: 0;
+    margin-right: 0;
+    padding: 0;
+    width: 140px;
+    height: 22px;
+    position: absolute;
+    top: 135px;
+    background-color: #56ce17;
+    color: black;
+    border-color: #44a213;
+    font-family: cursive;
+    font-size: 15px;
+}
+
+#email{
+    margin-left: 170px;
+    margin-bottom: 5px;
+    margin-top: 60px;
+    margin-right: 0;
+    padding: 0;
+    width: 180px;
+    height: 29px;
+    color: #56ce17;
+    font-family: monospace;
+    font-size: 25px;
+    border-left: 4px solid #56ce17;
+}
+
+#email_inp{
+    margin-left: 180px;
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-right: 0;
+    padding: 0;
+    width: 260px;
+    height: 21px;
+    position: absolute;
+    top: 225px;
+    font-family: cursive;
+    color: black;
+    background-color: #56ce17;
+    border-color: #44a213;
+}
+
+#password{
+    margin-left: 170px;
+    margin-bottom: 5px;
+    margin-top: 60px;
+    margin-right: 0;
+    padding: 0;
+    width: 110px;
+    height: 29px;
+    color: #56ce17;
+    font-family: monospace;
+    font-size: 25px;
+    border-left: 4px solid #56ce17;
+}
+
+#password_inp{
+    margin-left: 180px;
+    margin-bottom: 0;
+    margin-top: 6px;
+    margin-right: 0;
+    padding: 0;
+    width: 160px;
+    height: 18px;
+    font-family: cursive;
+    color: black;
+    background-color: #56ce17;
+    border-color: #44a213;
+}
+
+#repeat_pass{
+    margin-left: 170px;
+    margin-bottom: 5px;
+    margin-top: 28px;
+    margin-right: 0;
+    padding: 0;
+    width: 300px;
+    height: 29px;
+    color: #56ce17;
+    font-family: monospace;
+    font-size: 25px;
+    border-left: 4px solid #56ce17;
+}
+
+#repeat_pass_inp{
+    margin-left: 180px;
+    margin-bottom: 0;
+    margin-top: 6px;
+    margin-right: 0;
+    padding: 0;
+    width: 160px;
+    height: 18px;
+    font-family: cursive;
+    color: black;
+    background-color: #56ce17;
+    border-color: #44a213;
+}
+
+#green_left{
+    margin: 0;
+    padding: 0;
+    width: 120px;
+    height: 550px;
+    background: #56ce17;
+    float: left;
+    position: absolute;
+    top: 0;
+}
+
+#create{
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-right: 0;
+    padding: 0;
+    width: 120px;
+    height: 35px;
+    position: absolute;
+    top: 490px;
+    transform: translate(-50%,-50%);
+    background-color: #56ce17;
+    color: black;
+    border-color: #44a213;
+    font-family: monospace;
+    font-size: 20px;
+    transition-duration: 0.5s;
+}
+#create:hover{
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-right: 0;
+    padding: 0;
+    width: 120px;
+    height: 35px;
+    position: absolute;
+    top: 490px;
+    transform: translate(-50%,-50%);
+    background-color: black;
+    color: #56ce17;
+    border-color: #56ce17;
+    font-family: monospace;
+    font-size: 20px;
+    transition-duration: 0.5s;
+}
+
+#Toxic_Code{
+    margin: 0;
+    padding: 0;
+    width: 440px;
+    height: auto;
+    color: black;
+    font-family: monospace;
+    font-size: 80px;
+    position: absolute;
+    top: 230px;
+    left: -163px;
+    transform: translate(-200%,-200%);
+    transform: rotate(-90deg);
+    float: left;
+}
+        </style>
+    </head>
+    <body id="body">
+        <!--Nav Start-->
+        <div id="top-nav">
+            <a href="LP_index.html"><img id="toxic-logo" src="bg5.jpg">
+                <p id="toxic">Toxic</p>
+                    <p id="Code">Code</p></a>
+                        <p id="Gallery">Gallery</p>
+                    <p id="Profile">Profile</p>
+                <p id="About">About</p>
+            <p id="Contact_Us">ContactUs</p>
+        </div>
+        <!--Nav End-->
+        <!--part1 Start-->
+        <div id="part1">
+            <h1 id="title">Sign Up</h1>
+                <p id="first_name">First Name</p>
+                    <p id="last_name">Last Name</p>
+                        <input id="first_name_inp" type="text" placeholder="Alex">
+                            <input id="last_name_inp" type="text" placeholder="Mason">
+                                <p id="email">Email Address</p>
+                                    <input id="email_inp" type="email" placeholder="Email@example.com">
+                                        <p id="password">Password</p>
+                                    <input id="password_inp" type="password" placeholder="**********">
+                                <p id="repeat_pass">Repeat-Password</p>
+                            <input id="repeat_pass_inp" type="password" placeholder="**********">
+                        <button id="create">Create</button>
+                    <div id="green_left">
+                <p id="Toxic_Code">Toxic Code</p>
+            </div>
+        </div>
+        <!--part1 End-->
+        <script src="jQ_LB.js"></script>
+            <script>
+                var bg_width = $("#body").width();
+                $("#top-nav").width("bg_width");
+            $("#footer").width("bg_width");
+        </script>
+    </body>
+</html>

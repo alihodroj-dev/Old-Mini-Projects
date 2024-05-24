@@ -1,0 +1,10 @@
+var body = document.getElementById("body");
+var btn = document.getElementById("btn");
+var email = document.getElementById("btn");
+var pass = document.getElementById("btn");
+var conpass = document.getElementById("btn");
+var age = document.getElementById("btn");
+var city = document.getElementById("btn");
+var btn2 = document.getElementById("btn2");
+body.style.width = body.style.width + "px";
+body.style.height = body.style.height + "px";

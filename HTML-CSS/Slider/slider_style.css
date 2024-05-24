@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 1583px;
+    height:auto;
+    background-color: orangered;
+}
+
+.nav{
+    background: #313131;
+    width:auto;
+    height: 50px;
+}
+
+.input{
+    height:25px;
+    width:27px;
+    border-radius:25px;
+    background-color:orange;
+    border-color:red;
+    transition-duration:1.0s;
+    margin-left: 200px;
+    margin-top: 10px;
+    
+}
+
+.input:hover{
+   
+    height:25px;
+    width:200px;
+    transition-duration:1.0s;
+    border-radius:25px;
+    margin-left: 200px;
+    margin-top: 20px;
+    margin-top: 10px;
+    
+}
+
+.input:focus{
+   
+    height:25px;
+    width:200px;
+    transition-duration:1.0s;
+    border-radius:25px;
+    margin-left: 200px;
+    margin-top: 20px;
+    margin-top: 10px;
+    
+}
+
+.img{
+    width:1583px;
+    height: 900px;
+}
+
+.slider{
+    width: 1583px;
+    height: 900px;
+    animation: slide 25s infinite;
+    background:url(2.jpg),url(1.jpg),url(3.jpg),url(4.jpg) ;
+}
+
+@keyframes slide {
+        25%{
+        background-image: url(1.jpg);
+    }
+        50%{
+        background-image: url(3.jpg);
+    }
+        75%{
+        background-image: url(4.jpg);
+    }
+        100%{
+        background-image: url(2.jpg);
+    }
+
+}

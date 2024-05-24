@@ -1,0 +1,702 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Toxic Code</title>
+            <meta charset="utf-8">
+        <style>
+#body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: auto;
+    /*min-width: 1300px;
+    max-width: 1800px;*/
+}
+
+#top-nav{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 52px;
+    background-color: black;
+}
+
+#toxic-logo{
+    margin: 0;
+    padding: 0;
+    width: 80px;
+    height: 50px;
+    position: absolute;
+    top: 0%;
+    left: 85px;
+    cursor: pointer;
+}
+
+#toxic{
+    margin: 0;
+    padding: 0;
+    width: auto;
+    height: auto;
+    color: #56ce17;
+    font-family: monospace;
+    font-size: 32px;
+    position: absolute;
+    top: 7.5px;
+    left: 153px;
+    cursor: pointer;
+}
+
+#Code{
+    margin: 0;
+    padding: 0;
+    width: auto;
+    height: auto;
+    color: #9a9a9a;
+    font-size: 28px;
+    font-family: monospace;
+    position: absolute;
+    top: 10.5px;
+    left: 244px;
+    cursor: pointer;
+}
+
+#Gallery{
+    margin: 0;
+    padding: 0;
+    width: 0px;
+    height: auto;
+    color: #56ce17;
+    font-family: monospace;
+    font-size: 22px;
+    position: absolute;
+    top: 13px;
+    left: 59.5%;
+    border-bottom: solid 3px #56ce17;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+#Gallery:hover{
+    margin: 0;
+    padding: 0;
+    width: 84.67px;
+    height: auto;
+    color: #56ce17;
+    font-family: monospace;
+    font-size: 22px;
+    position: absolute;
+    top: 13px;
+    left: 60%;
+    border-bottom: solid 3px #56ce17;
+    transition-duration: 0.5s;
+    background-color: #282b28;
+    cursor: pointer;
+}
+
+#Profile{
+    margin: 0;
+    padding: 0;
+    width: 0px;
+    height: auto;
+    color: #56ce17;
+    font-family: monospace;
+    font-size: 22px;
+    position: absolute;
+    top: 13px;
+    left: 67.65%;
+    border-bottom: solid 3px #56ce17;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+#Profile:hover{
+    margin: 0;
+    padding: 0;
+    width: 84.67px;
+    height: auto;
+    color: #56ce17;
+    font-family: monospace;
+    font-size: 22px;
+    position: absolute;
+    top: 13px;
+    left: 68.15%;
+    border-bottom: solid 3px #56ce17;
+    transition-duration: 0.5s;
+    background-color: #282b28;
+    cursor: pointer;
+}
+
+#About{
+    margin: 0;
+    padding: 0;
+    width: 0px;
+    height: auto;
+    color: #56ce17;
+    font-family: monospace;
+    font-size: 22px;
+    position: absolute;
+    top: 13px;
+    left: 75.8%;
+    border-bottom: solid 3px #56ce17;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+#About:hover{
+    margin: 0;
+    padding: 0;
+    width: 60.48px;
+    height: auto;
+    color: #56ce17;
+    font-family: monospace;
+    font-size: 22px;
+    position: absolute;
+    top: 13px;
+    left: 76.3%;
+    border-bottom: solid 3px #56ce17;
+    transition-duration: 0.5s;
+    background-color: #282b28;
+    cursor: pointer;
+}
+
+#Contact_Us{
+    margin: 0;
+    padding: 0;
+    width: 0px;
+    height: auto;
+    color: #56ce17;
+    font-family: monospace;
+    font-size: 22px;
+    position: absolute;
+    top: 13px;
+    left: 81.75%;
+    border-bottom: solid 3px #56ce17;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+#Contact_Us:hover{
+    margin: 0;
+    padding: 0;
+    width: 108.88px;
+    height: auto;
+    color: #56ce17;
+    font-family: monospace;
+    font-size: 22px;
+    position: absolute;
+    top: 13px;
+    left: 82.25%;
+    border-bottom: solid 3px #56ce17;
+    transition-duration: 0.5s;
+    background-color: #282b28;
+    cursor: pointer;
+}
+
+#part_1_div{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 610px;
+    background-image: url(bg4.jpg);
+    
+}
+
+#part_1_1st_p{
+    margin: 0;
+    padding: 0;
+    color: #56ce17;
+    font-family: monospace;
+    font-size: 70px;
+    position: absolute;
+    top: 22%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    display: block;
+    animation-name: anim1;
+    animation-duration: 2.5s;
+    animation-iteration-count: 1;
+    cursor: default;
+}
+@keyframes anim1 {
+    0%{
+        display: none;
+        position: absolute;
+        top: 11%;
+        left: 50%;
+        
+    }
+    100%{
+        position: absolute;
+        top: 22%;
+        left: 50%;
+        display: block;
+    }
+}
+
+#part_1_2nd_p{
+    margin: 0;
+    padding: 0;
+    color: #56ce17;
+    font-family: monospace;
+    font-size: 66px;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    display: block;
+    animation: anim2 2s 1;
+    cursor: default;
+}
+@keyframes anim2 {
+    0%{
+        display: none;
+        position: absolute;
+        top: 19%;
+        left: 50%;
+        
+    }
+    100%{
+        position: absolute;
+        top: 30%;
+        left: 50%;
+        display: block;
+    }
+}
+
+#login{
+    margin: 0;
+    padding: 0;
+    width: 130px;
+    height: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-100%,-50%);
+    background-color: #56ce17;
+    border-color: black;
+    font-family: monospace;
+    font-size: 20px;
+    text-align: center;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+#login:hover{
+    margin: 0;
+    padding: 0;
+    width: 130px;
+    height: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-100%,-50%);
+    color: #56ce17;
+    background-color: black;
+    border-color: #56ce17;
+    font-family: monospace;
+    font-size: 20px;
+    text-align: center;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+
+#sign-up{
+    margin: 0;
+    padding: 0;
+    width: 130px;
+    height: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(30%,-50%);
+    background-color: #56ce17;
+    border-color: black;
+    font-family: monospace;
+    font-size: 20px;
+    text-align: center;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+#sign-up:hover{
+    margin: 0;
+    padding: 0;
+    width: 130px;
+    height: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(30%,-50%);
+    color: #56ce17;
+    background-color: black;
+    border-color: #56ce17;
+    font-family: monospace;
+    font-size: 20px;
+    text-align: center;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+
+#part_2{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 600px;
+    
+}
+
+#part2_div1{
+    margin: 0;
+    padding: 0;
+    width: 50%;
+    height: 600px;
+    background-image: url(bg8.jpg);
+    background-size: cover;
+    float: left;
+    
+}
+
+#new-rel{
+    margin: 0;
+    padding: 0;
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 760px;
+    left: 4%;
+    font-family: monospace;
+    font-size: 68px;
+    color: #56ce17;
+    cursor: default;
+}
+
+#check_out{
+    margin: 0;
+    padding: 0;
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 860px;
+    left: 21%;
+    font-family: monospace;
+    font-size: 62px;
+    color: #9a9a9a;
+    cursor: default;
+}
+
+#here{
+    margin: 0;
+    padding: 0;
+    width: 150px;
+    height: 40px;
+    position: absolute;
+    top: 1050px;
+    left: 25%;
+    transform: translate(-50%,-50%);
+    color: black;
+    background-color: #56ce17;
+    border-color: black;
+    font-family: monospace;
+    font-size: 20px;
+    text-align: center;
+    transition-duration: 0.5s;
+    cursor: pointer;
+    
+}
+#here:hover{
+    margin: 0;
+    padding: 0;
+    width: 150px;
+    height: 40px;
+    position: absolute;
+    top: 1050px;
+    left: 25%;
+    transform: translate(-50%,-50%);
+    color: #56ce17;
+    background-color: black;
+    border-color: #56ce17;
+    font-family: monospace;
+    font-size: 20px;
+    text-align: center;
+    transition-duration: 0.5s;
+    cursor: pointer;
+    
+}
+
+#part2_div2{
+    margin: 0;
+    padding: 0;
+    width: 50%;
+    height: 600px;
+    background-image: url(bg7.jpg);
+    background-size: cover;
+    float: right;
+}
+
+#new_r_title{
+    margin: 0;
+    padding: 0;
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 760px;
+    left: 56.5%;
+    font-family: monospace;
+    font-size: 68px;
+    color: #56ce17;
+    cursor: default;
+}
+
+#test{
+    margin: 0;
+    padding: 0;
+    width: 0px;
+    height: auto;
+    position: absolute;
+    top: 900px;
+    left: 70%;
+    font-family: monospace;
+    font-size: 40px;
+    color: #9a9a9a;
+    border-bottom: 3px solid #56ce17;
+    transition-duration: 0.5s;
+    cursor: default;
+}
+#test:hover{
+    margin: 0;
+    padding: 0;
+    width: 153.95px;
+    height: auto;
+    position: absolute;
+    top: 900px;
+    left: 70%;
+    font-family: monospace;
+    font-size: 40px;
+    color: #9a9a9a;
+    border-bottom: 3px solid #56ce17;
+    transition-duration: 0.5s;
+    cursor: default;
+}
+
+#part_3{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 550px;
+    background-image: url(bg11.png);
+    background-size: cover;
+}
+
+#part3_p1{
+    margin: 0;
+    padding: 0;
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 1325px;
+    left: 3.5%;
+    color: #56ce17;
+    font-family: monospace;
+    font-size: 68px;
+    cursor: pointer;
+}
+
+#part3_p2{
+    margin: 0;
+    padding: 0;
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 1415px;
+    left: 60%;
+    color: #9a9a9a;
+    font-family: monospace;
+    font-size: 68px;
+    cursor: pointer;
+}
+
+#Code_org{
+    margin: 0;
+    padding: 0;
+    width: 140px;
+    height: 40px;
+    position: absolute;
+    top: 1600px;
+    left: 20%;
+    background-color: #56ce17;
+    color: black;
+    border-color: black;
+    cursor: pointer;
+    font-family: monospace;
+    font-size: 20px;
+    transition-duration: 0.5s;
+}
+#Code_org:hover{
+    margin: 0;
+    padding: 0;
+    width: 140px;
+    height: 40px;
+    position: absolute;
+    top: 1600px;
+    left: 20%;
+    background-color: black;
+    color: #56ce17;
+    border-color: #56ce17;
+    cursor: pointer;
+    font-family: monospace;
+    font-size: 20px;
+    transition-duration: 0.5s;
+}
+
+#codecademy{
+    margin: 0;
+    padding: 0;
+    width: 140px;
+    height: 40px;
+    position: absolute;
+    top: 1600px;
+    left: 40%;
+    background-color: #56ce17;
+    color: black;
+    border-color: black;
+    cursor: pointer;
+    font-family: monospace;
+    font-size: 20px;
+    transition-duration: 0.5s;
+}
+#codecademy:hover{
+    margin: 0;
+    padding: 0;
+    width: 140px;
+    height: 40px;
+    position: absolute;
+    top: 1600px;
+    left: 40%;
+    background-color: black;
+    color: #56ce17;
+    border-color: #56ce17;
+    cursor: pointer;
+    font-family: monospace;
+    font-size: 20px;
+    transition-duration: 0.5s;
+}
+
+#w3schools{
+    margin: 0;
+    padding: 0;
+    width: 135px;
+    height: 35px;
+    position: absolute;
+    top: 1600px;
+    left: 60%;
+    background-color: #56ce17;
+    color: black;
+    border-color: black;
+    cursor: pointer;
+    font-family: monospace;
+    font-size: 20px;
+    transition-duration: 0.5s;
+}
+#w3schools:hover{
+    margin: 0;
+    padding: 0;
+    width: 135px;
+    height: 35px;
+    position: absolute;
+    top: 1600px;
+    left: 60%;
+    background-color: black;
+    color: #56ce17;
+    border-color: #56ce17;
+    cursor: pointer;
+    font-family: monospace;
+    font-size: 20px;
+    transition-duration: 0.5s;
+}
+
+#SoloLearn{
+    margin: 0;
+    padding: 0;
+    width: 145px;
+    height: 40px;
+    position: absolute;
+    top: 1600px;
+    left: 80%;
+    background-color: #56ce17;
+    color: black;
+    border-color: black;
+    cursor: pointer;
+    font-family: monospace;
+    font-size: 20px;
+    transition-duration: 0.5s;
+}
+#SoloLearn:hover{
+    margin: 0;
+    padding: 0;
+    width: 145px;
+    height: 40px;
+    position: absolute;
+    top: 1600px;
+    left: 80%;
+    background-color: black;
+    color: #56ce17;
+    border-color: #56ce17;
+    cursor: pointer;
+    font-family: monospace;
+    font-size: 20px;
+    transition-duration: 0.5s;
+}
+        </style>
+    </head>
+    <body id="body">
+        <!--Nav Start-->
+        <div id="top-nav">
+            <a href="LP_index.html"><img id="toxic-logo" src="bg5.jpg">
+                <p id="toxic">Toxic</p>
+                    <p id="Code">Code</p></a>
+                        <p id="Gallery">Gallery</p>
+                    <p id="Profile">Profile</p>
+                <p id="About">About</p>
+            <p id="Contact_Us">ContactUs</p>
+        </div>
+        <!--Nav End-->
+        
+        <!--part_1 Start-->
+        <div id="part_1_div">
+            <p id="part_1_1st_p">Coding Is My</p>
+                <p id="part_1_2nd_p">Drug</p>
+                <button id="login">Login</button>
+            <a href="sign-up.html"><button id="sign-up">Sign Up</button></a>
+        </div>
+        <!--part_1 End-->
+        
+        <!--part_2 Start-->
+        <div id="part_2">
+            <div id="part2_div1">
+                <p id="new-rel">New Releases</p>                
+                    <p id="check_out">Check It Out</p>          
+                <button id="here">Here</button>
+            </div>
+            <div id="part2_div2">
+                <p id="new_r_title">Extending Border</p>        
+                <p id="test">Example</p>
+            </div>
+        </div>
+        <!--part_2 End-->
+        
+        <!--part_3 Start-->
+        <div id="part_3">
+            <p id="part3_p1">Want To Create Your Own Code</p>
+                <p id="part3_p2">Learn Online</p>
+                    <a href="https://code.org/" target="_blank"><button id="Code_org">Code.org</button></a>
+                    <a href="https://www.codecademy.com" target="_blank"><button id="codecademy">Codecademy</button></a>
+                <a href="https://www.w3schools.com/" target="_blank"><button id="w3schools">W3Schools</button></a>
+            <a href="https://www.sololearn.com/" target="_blank"><button id="SoloLearn">SoloLearn</button></a>
+        </div>
+        <!--part_3 End-->
+        
+            <script src="jQ_LB.js"></script>
+        <script>
+            var bg_width = $("#body").width();
+            
+            if (bg_width <= 1400) {                                 
+                $("#new-rel").css({"font-size":"50px"});                                
+                    $("#check_out").css({"font-size":"50px"});                             
+                $("#new_r_title").css({"font-size":"50px"});}
+        </script>
+    </body>
+</html>
